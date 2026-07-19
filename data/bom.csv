@@ -1,0 +1,27 @@
+part_no,part_name,commodity,supplier,material,qty_per_unit,unit_weight_g,current_price_jpy,market_ref_jpy
+P-001,Main PCB (4-layer FR4),Electronics,Nagoya Circuits,FR4,1,82,604,559
+P-002,MCU 32-bit (motor control),Electronics,Denki Parts KK,Silicon,1,4,440,407
+P-003,Gate driver IC,Electronics,Nagoya Circuits,Silicon,1,2,201,179
+P-004,Power MOSFET (40V),Electronics,Nagoya Circuits,Silicon,2,3,95,76
+P-005,Current sense shunt,Electronics,Denki Parts KK,Alloy,1,2,34,31
+P-006,DC-link capacitor (electrolytic),Electronics,Nagoya Circuits,Aluminum,1,18,118,107
+P-007,Ceramic capacitor set (MLCC),Electronics,Nagoya Circuits,Ceramic,1,6,66,58
+P-008,Connector 6-pin sealed,Electronics,Sunrise Micro,PA66,1,14,155,124
+P-009,EMC filter choke,Electronics,Denki Parts KK,Ferrite,1,26,103,88
+P-010,Position sensor (Hall),Electronics,Denki Parts KK,Silicon,1,3,128,119
+P-011,Stator core (laminated),Electromech,Chubu Motor Works,Steel,1,412,674,
+P-012,Stator winding (copper),Electromech,Aichi Windings,Copper,1,187,557,
+P-013,Rotor assembly,Electromech,Chubu Motor Works,Steel,1,298,498,
+P-014,Ferrite magnet set,Electromech,Chubu Motor Works,Ferrite,1,118,219,
+P-015,Shaft (stainless),Electromech,Chubu Motor Works,SUS304,1,64,158,
+P-016,Bearing 608ZZ pair,Electromech,Chubu Motor Works,Steel,1,28,160,
+P-017,Pump housing (die-cast Al),Mechanical,Toyokawa Diecast,ADC12,1,342,537,
+P-018,Volute cover (PPS-GF40),Mechanical,Mikawa Polymer,PPS,1,96,235,
+P-019,Impeller (PPS-GF40),Mechanical,Mikawa Polymer,PPS,1,42,163,
+P-020,Mechanical seal,Mechanical,Sealtech JP,Carbon/SiC,1,12,212,
+P-021,O-ring set (EPDM),Mechanical,Sealtech JP,EPDM,1,8,39,
+P-022,Mounting bracket (stamped),Mechanical,Toyokawa Diecast,Steel,1,118,136,
+P-023,Thermal pad,Mechanical,Sealtech JP,Silicone,1,9,46,
+P-024,Screw set M4/M5 (x8),Fasteners,Hamamatsu Fastener,Steel,1,22,27,
+P-025,Label + serial plate,Packaging,Shizuoka Pack,PET,1,3,12,
+P-026,Protective cap set,Packaging,Shizuoka Pack,PE,1,7,15,

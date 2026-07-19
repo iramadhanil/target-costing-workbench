@@ -1,0 +1,25 @@
+rank,part_no,part_name,supplier,gap_jpy,annual_gap_jpy,cum_share_pct,lever
+1,P-011,Stator core (laminated),Chubu Motor Works,178.2,21384000,22.7,should-cost re-quote
+2,P-013,Rotor assembly,Chubu Motor Works,125.8,15096000,38.8,should-cost re-quote
+3,P-016,Bearing 608ZZ pair,Chubu Motor Works,80.4,9648000,49.1,should-cost re-quote
+4,P-020,Mechanical seal,Sealtech JP,60.6,7272000,56.8,VA/VE workshop
+5,P-019,Impeller (PPS-GF40),Mikawa Polymer,48.3,5796000,63.0,VA/VE workshop
+6,P-012,Stator winding (copper),Aichi Windings,36.9,4428000,67.7,VA/VE workshop
+7,P-004,Power MOSFET (40V),Nagoya Circuits,35.0,4200000,72.1,market re-quote (distributor benchmark)
+8,P-001,Main PCB (4-layer FR4),Nagoya Circuits,33.8,4056000,76.5,market re-quote (distributor benchmark)
+9,P-008,Connector 6-pin sealed,Sunrise Micro,28.5,3420000,80.1,market re-quote (distributor benchmark)
+10,P-017,Pump housing (die-cast Al),Toyokawa Diecast,26.4,3168000,83.5,VA/VE workshop
+11,P-002,MCU 32-bit (motor control),Denki Parts KK,24.9,2988000,86.6,market re-quote (distributor benchmark)
+12,P-003,Gate driver IC,Nagoya Circuits,18.4,2208000,89.0,market re-quote (distributor benchmark)
+13,P-009,EMC filter choke,Denki Parts KK,13.2,1584000,90.7,market re-quote (distributor benchmark)
+14,P-024,Screw set M4/M5 (x8),Hamamatsu Fastener,10.4,1248000,92.0,volume bundling
+15,P-015,Shaft (stainless),Chubu Motor Works,10.1,1212000,93.3,VA/VE workshop
+16,P-023,Thermal pad,Sealtech JP,9.1,1092000,94.5,VA/VE workshop
+17,P-006,DC-link capacitor (electrolytic),Nagoya Circuits,8.9,1068000,95.6,market re-quote (distributor benchmark)
+18,P-026,Protective cap set,Shizuoka Pack,8.1,972000,96.6,volume bundling
+19,P-007,Ceramic capacitor set (MLCC),Nagoya Circuits,6.8,816000,97.5,market re-quote (distributor benchmark)
+20,P-010,Position sensor (Hall),Denki Parts KK,6.6,792000,98.3,market re-quote (distributor benchmark)
+21,P-025,Label + serial plate,Shizuoka Pack,6.4,768000,99.2,volume bundling
+22,P-021,O-ring set (EPDM),Sealtech JP,2.8,336000,99.5,VA/VE workshop
+23,P-005,Current sense shunt,Denki Parts KK,2.4,288000,99.8,market re-quote (distributor benchmark)
+24,P-018,Volute cover (PPS-GF40),Mikawa Polymer,1.4,168000,100.0,VA/VE workshop

@@ -1,0 +1,27 @@
+part_no,part_name,commodity,supplier,qty,current_ext_jpy,should_cost_ext_jpy,gap_jpy,annual_gap_jpy
+P-011,Stator core (laminated),Electromech,Chubu Motor Works,1,674.0,495.8,178.2,21384000
+P-013,Rotor assembly,Electromech,Chubu Motor Works,1,498.0,372.2,125.8,15096000
+P-016,Bearing 608ZZ pair,Electromech,Chubu Motor Works,1,160.0,79.6,80.4,9648000
+P-020,Mechanical seal,Mechanical,Sealtech JP,1,212.0,151.4,60.6,7272000
+P-019,Impeller (PPS-GF40),Mechanical,Mikawa Polymer,1,163.0,114.7,48.3,5796000
+P-012,Stator winding (copper),Electromech,Aichi Windings,1,557.0,520.1,36.9,4428000
+P-004,Power MOSFET (40V),Electronics,Nagoya Circuits,2,190.0,155.0,35.0,4200000
+P-001,Main PCB (4-layer FR4),Electronics,Nagoya Circuits,1,604.0,570.2,33.8,4056000
+P-008,Connector 6-pin sealed,Electronics,Sunrise Micro,1,155.0,126.5,28.5,3420000
+P-017,Pump housing (die-cast Al),Mechanical,Toyokawa Diecast,1,537.0,510.6,26.4,3168000
+P-002,MCU 32-bit (motor control),Electronics,Denki Parts KK,1,440.0,415.1,24.9,2988000
+P-003,Gate driver IC,Electronics,Nagoya Circuits,1,201.0,182.6,18.4,2208000
+P-009,EMC filter choke,Electronics,Denki Parts KK,1,103.0,89.8,13.2,1584000
+P-024,Screw set M4/M5 (x8),Fasteners,Hamamatsu Fastener,1,27.0,16.6,10.4,1248000
+P-015,Shaft (stainless),Electromech,Chubu Motor Works,1,158.0,147.9,10.1,1212000
+P-023,Thermal pad,Mechanical,Sealtech JP,1,46.0,36.9,9.1,1092000
+P-006,DC-link capacitor (electrolytic),Electronics,Nagoya Circuits,1,118.0,109.1,8.9,1068000
+P-026,Protective cap set,Packaging,Shizuoka Pack,1,15.0,6.9,8.1,972000
+P-007,Ceramic capacitor set (MLCC),Electronics,Nagoya Circuits,1,66.0,59.2,6.8,816000
+P-010,Position sensor (Hall),Electronics,Denki Parts KK,1,128.0,121.4,6.6,792000
+P-025,Label + serial plate,Packaging,Shizuoka Pack,1,12.0,5.6,6.4,768000
+P-021,O-ring set (EPDM),Mechanical,Sealtech JP,1,39.0,36.2,2.8,336000
+P-005,Current sense shunt,Electronics,Denki Parts KK,1,34.0,31.6,2.4,288000
+P-018,Volute cover (PPS-GF40),Mechanical,Mikawa Polymer,1,235.0,233.6,1.4,168000
+P-022,Mounting bracket (stamped),Mechanical,Toyokawa Diecast,1,136.0,142.8,-6.8,-816000
+P-014,Ferrite magnet set,Electromech,Chubu Motor Works,1,219.0,353.8,-134.8,-16176000
