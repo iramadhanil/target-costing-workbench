@@ -35,6 +35,7 @@ illustrative 26-part BOM for an electric coolant pump assembly (BLDC motor + con
 | `generate_bom.py` | Reproducibly generates the BOM (fixed seed) |
 | `should_cost.py` | The model: should-cost → target → gap → negotiation pack. Run: `python should_cost.py` |
 | `results/` | Computed outputs: per-part should-cost, commodity waterfall, negotiation pack, summary |
+| `build_tracker.py` | Generates the Excel tracker programmatically (openpyxl) — formulas, not pasted values |
 | `target_cost_tracker.xlsx` | **Live-formula Excel twin** — edit blue cells (material rates, overhead, target %) and attainment recalculates. Verified: Excel results match the Python model to the yen. |
 
 ## Honesty note (read this)
