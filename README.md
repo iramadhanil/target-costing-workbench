@@ -1,6 +1,6 @@
 # Target-Costing Workbench — Should-Cost, Attainment & Negotiation Pack
 
-**Author:** Ichwan Ramadhanil · Cost Planning Engineer, Hino Motors (Toyota Group)
+**Author:** Ichwan Ramadhanil · Cost Planning Engineer, Hino Motors, Tokyo
 **Stack:** Python (model) · Excel with live formulas (tracker) · CSV outputs
 **Companion repo:** [cost-to-serve-analytics](https://github.com/iramadhanil/cost-to-serve-analytics) — the same cost discipline applied to e-commerce logistics (incl. supplier freight benchmarking, analysis 07).
 
@@ -39,7 +39,7 @@ illustrative 26-part BOM for an electric coolant pump assembly (BLDC motor + con
 | `target_cost_tracker.xlsx` | **Live-formula Excel twin** — edit blue cells (material rates, overhead, target %) and attainment recalculates. Verified: Excel results match the Python model to the yen. |
 
 ## Honesty note (read this)
-The **method is real** — it is the daily discipline of cost planning in the Toyota Group
+The **method is real** — it is the daily discipline of automotive cost planning
 (target costing, genchi genbutsu on cost breakdowns, supplier should-cost).
 The **data is synthetic** (fixed-seed generator, order-of-magnitude realistic rates) because real
 part-level cost data from my work is confidential. Every number in this repo is reproducible
